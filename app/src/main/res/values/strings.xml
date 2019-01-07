@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Git Comandos</string>
+    <string name="description">descricao</string>
+    <string name="title">comando</string>
+    <string name="search">Search</string>
+
+</resources>
